@@ -1,0 +1,2 @@
+// Tracked config. The real key lives in Secrets.xcconfig (git-ignored).
+#include? "Secrets.xcconfig"
